@@ -1,0 +1,890 @@
+/*--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+--*/
+
+/*-- header --*/
+/*-- Index-Page-Styling --*/
+/*-- Top-Bar --*/
+.
+/*-- Logo --*/
+
+/*-- //Info --*/
+/*-- //Top-Bar --*/
+/*-- Slider --*/
+#slider {
+	box-shadow: none;
+	-moz-box-shadow: none;
+	-webkit-box-shadow: none;
+	margin: 0 auto;
+}
+.slider-img1 {
+background:url(../images/vanda/6.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity:0.75;
+}
+.slider-img2 {
+background:url(../images/balaikota.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img3 {
+background:url(../images/film.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img4 {
+background:url(../images/lansia.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img5 {
+background:url(../images/pramuka.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img6 {
+background:url(../images/superhero.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img7 {
+background:url(../images/skateboard.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img8 {
+background:url(../images/kandaga.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img9 {
+background:url(../images/ujungberung.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.slider-img10 {
+background:url(../images/cibeunying.jpg)no-repeat 0px 0px;
+	-webkit-background-size:cover; 
+	-moz-background-size:cover;  
+	background-size:cover; 
+	min-height:700px;
+	opacity: 0.75;
+}
+.rslides_tabs {
+	list-style: none;
+	padding: 0;
+	background: rgba(0,0,0,.25);
+	box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+	-moz-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+	-webkit-box-shadow: 0 0 1px rgba(255,255,255,.3), inset 0 0 5px rgba(0,0,0,1.0);
+	font-size: 18px;
+	list-style: none;
+	margin: 0 auto 50px;
+	max-width: 540px;
+	padding: 10px 0;
+	text-align: center;
+	width: 100%;
+}
+.rslides_tabs li {
+	display: inline;
+	float: none;
+	margin-right: 1px;
+}
+.rslides_tabs a {
+	width: auto;
+	line-height: 20px;
+	padding: 9px 20px;
+	height: auto;
+	background: transparent;
+	display: inline;
+}
+.rslides_tabs li:first-child {
+	margin-left: 0;
+}
+.rslides_tabs .rslides_here a {
+	background: rgba(255,255,255,.1);
+	color: #fff;
+	font-weight: bold;
+}
+.events {
+	list-style: none;
+}
+.callbacks_container {
+    position: relative;
+    float: none;
+    text-align: center;
+    width: 100%;
+}
+.callbacks {
+	position: relative;
+	list-style: none;
+	overflow: hidden;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+.callbacks li {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.callbacks img {
+	position: relative;
+	z-index: 1;
+	height: auto;
+	border: 0;
+}
+.callbacks .caption {
+	display: block;
+	position: absolute;
+	z-index: 2;
+	font-size: 20px;
+	text-shadow: none;
+	color: #fff;
+	left: 0;
+	right: 0;
+	padding: 10px 20px;
+	margin: 0;
+	max-width: none;
+	top: 10%;
+	text-align: center;
+}
+.callbacks_nav {
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    bottom: 326px;
+    left: 0;
+    z-index: 3;
+    text-indent: -9999px;
+    overflow: hidden;
+    text-decoration: none;
+    width: 50px;
+    height: 50px;
+    background: transparent url(../images/arrows.png) no-repeat left top;
+}
+.callbacks_nav.next {
+  left: auto;
+    background-position: right top;
+  left: 95.5%;
+ }
+ .callbacks_nav.prev {
+    right: auto;
+    background-position: left top;
+    left:22px;
+}
+.callbacks_nav:active {
+	opacity: 1.0;
+}
+
+.callbacks2_nav:active {
+	opacity: 1.0;
+}
+
+#slider-pager a {
+	display: inline-block;
+}
+
+#slider-pager span {
+	float: left;
+}
+#slider-pager span {
+	width: 100px;
+	height: 15px;
+	background: #fff;
+	display: inline-block;
+	border-radius: 30em;
+	opacity: 0.6;
+}
+#slider-pager .rslides_here a {
+	background: #FFF;
+	border-radius: 30em;
+	opacity: 1;
+}
+#slider-pager a {
+	padding: 0;
+}
+#slider-pager li {
+	display: inline-block;
+}
+.rslides {
+	position: relative;
+	list-style: none;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+.rslides li {
+	-webkit-backface-visibility: hidden;
+	position: absolute;
+	display: none;
+	left: 0%;
+	top: 0;
+	width: 100%;
+}
+.rslides li {
+	position: relative;
+	display: block;
+	float: none;
+}
+.rslides img {
+	height: auto;
+	border: 0;
+}
+.callbacks_tabs {
+	    list-style: none;
+    position: absolute;
+    top: 65%;
+    z-index: 999;
+    left: 45%;
+    padding: 0em 0.6em 1em 0.3em;
+    margin: 0;
+}
+.callbacks_tabs li {
+	display: inline-block;
+	margin: 0.5em;
+}
+.callbacks_tabs a {
+	visibility: hidden;
+}
+.callbacks_tabs a:after {
+	content: "\f111";
+	font-size: 0;
+	font-family: FontAwesome;
+	visibility: visible;
+	display: block;
+	width:12px;
+	height: 12px;
+	display: inline-block;
+	background: #fff;
+	border: none;
+	border-radius: 50%;
+}
+.callbacks_here a:after {
+	background: #168eea;
+}
+.slider-info {
+    position: absolute;
+    top: 13em;
+    z-index: 999;
+    left: 13em;
+    width: 75%;
+    height: 100%;
+}
+.slider-info img {
+    width: 150px;
+    margin: 0 auto;
+    margin-bottom: 2.5em;
+}
+.slider-info h3 {
+    font-size: 70px;
+    font-weight: 400;
+    color: #00add4;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 2px 0px 10px;
+	font-family: 'Pacifico', cursive;;
+}
+
+.slider-info p {
+    font-size: 18px;
+    font-weight: 100;
+    color: #d3d8d8;
+    margin: 0 auto;
+    line-height: 35px;
+    letter-spacing: 1px;
+}
+.slider-info h4 {
+    font-size: 45px;
+    color: #b56d10;
+	letter-spacing: 3px;
+	text-transform:uppercase; 
+	margin-top: 7px;
+}
+h6 {
+	margin:0 auto;
+	z-index:999;
+}
+h6 a{
+	cursor:pointer;
+	font-size:15px;
+	text-transform:uppercase;
+}
+.slider-top span{
+font-weight:600;
+}
+.callbacks_tabs li{
+       display: inline-block;
+    margin: 0 7px;
+}
+/*-- //Slider --*/
+
+/*-- //nav-bar --*/
+/*-- //nav --*/
+/* Effect 15: scale down, reveal */
+
+
+.readmore-w3 a {
+    border: 2px solid #f5f5f5;
+    background:#f5f5f5;
+    text-transform: uppercase;
+    display: inline-block;
+    position: absolute;
+    bottom:21em;
+    left: 45.5em;
+    z-index: 999;
+    text-decoration: none;
+    color:#168eea;
+    font-size: 1em;
+    padding: 8px 20px;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    -ms-transition: 0.5s all;
+}
+/*--//BANNER-BOTTOM--*/
+
+.main h1{
+	text-align: center;
+    color: #fff;
+    font-size: 3em;
+    margin-bottom: 1em;
+}
+
+::-webkit-input-placeholder{
+	color:#4B4B4B !important;
+}
+
+/*--//BANNER-BOTTOM--*/
+/*--//modal--*/
+/*-- //Banner-Slider --*/
+/*-- /about --*/
+
+
+/*-- Locations --*/
+/*-- services --*/
+
+
+/*-- services --*/
+
+
+
+@media screen and (max-width: 1000px) {
+	
+
+
+/*-- //Locations --*/
+/*-- /pricing table --*/
+
+/*-- /pricing table --*/
+/*-- Portfolio --*/
+
+/* //copyright */
+
+
+/* //footer */
+
+
+/*-- to-top --*/
+#toTop {
+	display: none;
+	text-decoration: none;
+	position: fixed;
+	bottom: 24px;
+	right: 1%;
+	overflow: hidden;
+	z-index: 999; 
+    width: 64px;
+    height: 64px;
+	border: none;
+	text-indent: 100%;
+	background: url("../images/arr.png") no-repeat 0px 0px;
+}
+#toTopHover {
+    width: 64px;
+    height: 64px;
+	display: block;
+	overflow: hidden;
+	float: right;
+	opacity: 0;
+	-moz-opacity: 0;
+	filter: alpha(opacity=0);
+}
+}
+/*-- //to-top --*/
+/*-- /responsive design --*/
+@media(max-width:1440px){
+	.readmore-w3 a {
+    bottom: 21em;
+	left: 40em;
+	}
+	.main {
+   top:44em;
+	}
+	.callbacks_tabs {
+    top: 60%;
+    left: 44%;
+	}
+
+}
+@media(max-width:1366px){
+	.pricing-grids {
+    padding-left: 17em;
+	width: 100%;
+	}
+	.callbacks_tabs {
+    top: 60%;
+    left: 47%;
+	}
+	
+}
+@media(max-width:1280px){
+	.readmore-w3 a {
+    bottom: 21em;
+    left: 38em;
+	}
+	.pricing-grids {
+    padding-left: 14em;
+    width: 100%;
+	}
+	.slider-info {
+    left: 11em;
+	}
+}
+@media(max-width:1080px){
+	.navbar {
+    padding: 18px 0px;
+	}
+	.slider-info {
+    left: 8em;
+	}
+	.readmore-w3 a {
+    bottom: 21em;
+    left: 28em;
+	}
+	.callbacks_tabs {
+    left: 41%;
+	}
+	.slider-img3 {
+    background: url(../images/park.jpg)no-repeat -300px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    min-height: 700px;
+    opacity: 0.8;
+	}
+	.agileits_w3layouts_main_gridl {
+    width: 84%;
+	}
+	#category1 {
+    outline: none;
+    width: 77%;
+	}
+	.w3-border-left p {
+    margin-left: 4em;
+	}
+	.w3-services-grid-icon-text p {
+    width: 76%;
+	}
+	.w3-services-grid-icon1 p {
+    width: 76%;
+	}
+	.w3-services-grids-right {
+    margin: 3em 0;
+	}
+}
+@media(max-width:1024px){
+	.callbacks_nav.next {
+    left: 93%;
+	}
+	.readmore-w3 a {
+    left: 27em;
+	}
+}
+@media(max-width:991px){
+	.container {
+    width: 100%;
+    padding: 0 10px;
+	}
+	.slider-img1,.slider-img2,.slider-img4 {
+    min-height: 500px;
+	}
+	.slider-img3 {
+    background: url(../images/balaikota.jpg)no-repeat 0px 0px;
+    min-height: 500px;
+	}
+	.readmore-w3 a {
+    bottom: 6em;
+	}
+	.slider-info {
+    top: 10em;
+	}	
+	.callbacks_nav {
+    bottom: 196px;
+	}
+}
+@media(max-width:800px){
+	.slider-info {
+    width: 100%;
+	}
+	.slider-info {
+    left: 0em;
+	}
+	.readmore-w3 a {
+    left: 22em;
+	}
+	.slider-img3 {
+    background: url(../images/park.jpg)no-repeat -503px -200px;
+	}
+	
+}
+@media(max-width:768px){
+   .readmore-w3 a {
+    left: 21em;
+	}
+	.slider-info h3 {
+    font-size: 35px;
+	}
+}
+@media(max-width:767px){
+}
+@media(max-width:736px){
+	.slider-info h3 {
+    font-size: 40px;
+	}
+	.readmore-w3 a {
+    left: 20em;
+	}
+	iframe {
+    min-height: 42em;
+	}
+	.readmore-w3 a {
+    left: 18em;
+	}
+    transform: translateY(0);
+    text-align: center;
+	}
+	
+}
+@media(max-width:667px){
+	.slider-info {
+    left:0em;
+	}
+	.readmore-w3 a {
+    left:17em;
+	}
+	.readmore-w3 a {
+    bottom:20em;
+	}
+	.slider-info h3 {
+    font-size: 38px;
+	}
+	.callbacks_tabs {
+    left: 39%;
+	}
+	.slider-info h3 {
+    font-size: 31px;
+	}
+	.slider-info {
+    top: 7em;
+	}
+	.readmore-w3 a {
+    bottom: 14em;
+    left: 16em;
+	}
+	.callbacks_tabs {
+    left: 37%;
+}
+.contact-w3layouts {
+    margin: 16em 0 0em;
+}
+}
+@media(max-width:640px){
+	.readmore-w3 a {
+    left: 15em;
+	}
+	.callbacks_tabs {
+    left: 36%;
+	}
+	.slider-info h3 {
+    font-size: 35px;
+	}
+}
+@media(max-width:600px){
+	.readmore-w3 a {
+    left: 14em;
+	}
+
+}
+@media(max-width:568px){
+	.slider-info h3 {
+    font-size: 31px;
+	}
+	.slider-info h3 {
+    font-size: 30px;
+    letter-spacing: 1px;
+	}
+	.slider-info {
+    top: 9em;
+	}
+	.readmore-w3 a {
+    bottom: 23em;
+	}
+	.readmore-w3 a {
+    left: 13em;
+	}
+	.slider-img1 {
+    min-height:500px;
+    background: url(../images/vanda/6.jpg)no-repeat -111px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img2 {
+    min-height:500px;
+    background: url(../images/balaikota.jpg)no-repeat -216px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img3 {
+    min-height:500px;
+	    background: url(../images/film.jpg)no-repeat -300px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img4{
+    min-height:500px;
+	    background: url(../images/skateboard.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img5{
+    min-height:500px;
+	    background: url(../images/inklusi.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img6{
+    min-height:500px;
+	    background: url(../images/ujungberung.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img7{
+    min-height:500px;
+	    background: url(../images/kandaga.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img8{
+    min-height:500px;
+	    background: url(../images/superhero.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img9{
+    min-height:500px;
+	    background: url(../images/pramuka.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	.slider-img10{
+    min-height:500px;
+	    background: url(../images/cibeunying.jpg)no-repeat -214px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    opacity: 0.1;
+	}
+	
+	.readmore-w3 a {
+    bottom: 13em;
+	}
+	
+}
+@media(max-width:480px){
+	.slider-info h3 {
+    font-size: 29px;
+    letter-spacing: 1px;
+	}
+	.slider-info p {
+    font-size: 16px;
+	}
+	.readmore-w3 a {
+    left: 10.5em;
+	}
+	
+}
+@media(max-width:414px){
+	.slider-info h3 {
+    font-size: 25px;
+    letter-spacing: 1px;
+	}
+	
+	.slider-info p {
+    font-size: 15px;
+	}
+	.readmore-w3 a {
+    left: 8em;
+	}
+	.callbacks_tabs {
+    left: 29%;
+	}
+	
+	.slider-img1 {
+    min-height: 500px;
+    background: url(../images/vanda/6.jpg)no-repeat -225px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img2 {
+    min-height: 500px;
+    background: url(../images/balaikota.jpg)no-repeat -269px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img3 {
+    min-height: 500px;
+    background: url(../images/film.jpg)no-repeat -470px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img4 {
+    min-height: 500px;
+    background: url(../images/cibeunying.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img5 {
+    min-height: 500px;
+    background: url(../images/skateboard.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img6 {
+    min-height: 500px;
+    background: url(../images/pramuka.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img7 {
+    min-height: 500px;
+    background: url(../images/inklusi.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img8 {
+    min-height: 500px;
+    background: url(../images/ujungberung.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img9 {
+    min-height: 500px;
+    background: url(../images/kandaga.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	.slider-img10 {
+    min-height: 500px;
+    background: url(../images/superhero.jpg)no-repeat -284px 0px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+	}
+	
+}
+@media(max-width:384px){
+	
+	.slider-info h3 {
+    font-size: 23px;
+    letter-spacing: 1px;
+	}
+	.slider-info h3 {
+    font-size: 22px;
+    letter-spacing: 1px;
+	}
+	.slider-info p {
+    font-size: 14px;
+	}
+	.readmore-w3 a {
+    left: 7em;
+	}
+	.callbacks_tabs {
+    left: 27%;
+	}
+	.callbacks_nav.next {
+    left: 80%;
+	}
+	
+}
+@media(max-width:375px){
+.contact-w3layouts {
+    margin: 48em 0 0em;
+	}
+}
+@media(max-width:320px){
+	.slider-info h3 {
+    font-size: 20px;
+    letter-spacing: 0px;
+	}
+	
+}
+/*-- /responsive design --*/

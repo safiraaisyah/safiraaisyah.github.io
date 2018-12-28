@@ -21,7 +21,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	margin: 0 auto;
 }
 .slider-img1 {
-background:url(../images/vanda/6.jpg)no-repeat 0px 0px;
+background:url(../images/de_ranch/6.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -29,7 +29,7 @@ background:url(../images/vanda/6.jpg)no-repeat 0px 0px;
 	opacity:0.75;
 }
 .slider-img2 {
-background:url(../images/balaikota.jpg)no-repeat 0px 0px;
+background:url(../images/dusbu.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -37,7 +37,7 @@ background:url(../images/balaikota.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img3 {
-background:url(../images/film.jpg)no-repeat 0px 0px;
+background:url(../images/kaput.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -45,7 +45,7 @@ background:url(../images/film.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img4 {
-background:url(../images/lansia.jpg)no-repeat 0px 0px;
+background:url(../images/farmhouse.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -61,7 +61,7 @@ background:url(../images/pramuka.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img6 {
-background:url(../images/superhero.jpg)no-repeat 0px 0px;
+background:url(../images/rancaupas.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -69,7 +69,7 @@ background:url(../images/superhero.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img7 {
-background:url(../images/skateboard.jpg)no-repeat 0px 0px;
+background:url(../images/tangkuban.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -77,7 +77,7 @@ background:url(../images/skateboard.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img8 {
-background:url(../images/kandaga.jpg)no-repeat 0px 0px;
+background:url(../images/juanda.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -85,7 +85,7 @@ background:url(../images/kandaga.jpg)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img9 {
-background:url(../images/ujungberung.JPG)no-repeat 0px 0px;
+background:url(../images/keraton.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -93,7 +93,7 @@ background:url(../images/ujungberung.JPG)no-repeat 0px 0px;
 	opacity: 0.75;
 }
 .slider-img10 {
-background:url(../images/cibeunying.jpg)no-repeat 0px 0px;
+background:url(../images/floamart.jpg)no-repeat 0px 0px;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover;  
 	background-size:cover; 
@@ -541,7 +541,7 @@ font-weight:600;
     min-height: 500px;
 	}
 	.slider-img3 {
-    background: url(../images/balaikota.jpg)no-repeat 0px 0px;
+    background: url(../images/dusbu.jpg)no-repeat 0px 0px;
     min-height: 500px;
 	}
 	.readmore-w3 a {
@@ -666,7 +666,7 @@ font-weight:600;
 	}
 	.slider-img1 {
     min-height:500px;
-    background: url(../images/vanda/6.jpg)no-repeat -111px 0px;
+    background: url(../images/de_ranch/6.jpg)no-repeat -111px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -674,7 +674,7 @@ font-weight:600;
 	}
 	.slider-img2 {
     min-height:500px;
-    background: url(../images/balaikota.jpg)no-repeat -216px 0px;
+    background: url(../images/dusbu.jpg)no-repeat -216px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -682,7 +682,7 @@ font-weight:600;
 	}
 	.slider-img3 {
     min-height:500px;
-	    background: url(../images/film.jpg)no-repeat -300px 0px;
+	    background: url(../images/kaput.jpg)no-repeat -300px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -690,7 +690,7 @@ font-weight:600;
 	}
 	.slider-img4{
     min-height:500px;
-	    background: url(../images/skateboard.jpg)no-repeat -214px 0px;
+	    background: url(../images/tangkuban.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -698,7 +698,7 @@ font-weight:600;
 	}
 	.slider-img5{
     min-height:500px;
-	    background: url(../images/inklusi.jpg)no-repeat -214px 0px;
+	    background: url(../images/mari.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -706,7 +706,7 @@ font-weight:600;
 	}
 	.slider-img6{
     min-height:500px;
-	    background: url(../images/ujungberung.JPG)no-repeat -214px 0px;
+	    background: url(../images/keraton.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -714,7 +714,7 @@ font-weight:600;
 	}
 	.slider-img7{
     min-height:500px;
-	    background: url(../images/kandaga.jpg)no-repeat -214px 0px;
+	    background: url(../images/juanda.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -722,7 +722,7 @@ font-weight:600;
 	}
 	.slider-img8{
     min-height:500px;
-	    background: url(../images/superhero.jpg)no-repeat -214px 0px;
+	    background: url(../images/rancaupas.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -738,7 +738,7 @@ font-weight:600;
 	}
 	.slider-img10{
     min-height:500px;
-	    background: url(../images/cibeunying.jpg)no-repeat -214px 0px;
+	    background: url(../images/floamart.jpg)no-repeat -214px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -781,35 +781,35 @@ font-weight:600;
 	
 	.slider-img1 {
     min-height: 500px;
-    background: url(../images/vanda/6.jpg)no-repeat -225px 0px;
+    background: url(../images/de_ranch/6.jpg)no-repeat -225px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img2 {
     min-height: 500px;
-    background: url(../images/balaikota.jpg)no-repeat -269px 0px;
+    background: url(../images/dusbu.jpg)no-repeat -269px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img3 {
     min-height: 500px;
-    background: url(../images/film.jpg)no-repeat -470px 0px;
+    background: url(../images/kaput.jpg)no-repeat -470px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img4 {
     min-height: 500px;
-    background: url(../images/cibeunying.jpg)no-repeat -284px 0px;
+    background: url(../images/floamart.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img5 {
     min-height: 500px;
-    background: url(../images/skateboard.jpg)no-repeat -284px 0px;
+    background: url(../images/tangkuban.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -823,28 +823,28 @@ font-weight:600;
 	}
 	.slider-img7 {
     min-height: 500px;
-    background: url(../images/inklusi.jpg)no-repeat -284px 0px;
+    background: url(../images/mari.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img8 {
     min-height: 500px;
-    background: url(../images/ujungberung.JPG)no-repeat -284px 0px;
+    background: url(../images/keraton.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img9 {
     min-height: 500px;
-    background: url(../images/kandaga.jpg)no-repeat -284px 0px;
+    background: url(../images/juanda.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
 	}
 	.slider-img10 {
     min-height: 500px;
-    background: url(../images/superhero.jpg)no-repeat -284px 0px;
+    background: url(../images/rancaupas.jpg)no-repeat -284px 0px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
